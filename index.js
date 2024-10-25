@@ -1,32 +1,4 @@
-/*
-  ptoszek.pl
-  Powered by Jaczup
 
-  My version (ptoszek.pl): 
-  - https://github.com/jaczup/ptoszek.pl
-  Original version (theannoyingsite.com): 
-  - https://github.com/feross/TheAnnoyingSite.com/
-
-  VERIFY THAT YOU ARE DEFINITELY CONTACTING ME! MANY PEOPLE TRY TO IMPERSONATE ME.
-
-  My official social media I use:
-    - YouTube: @jaczup
-    - TikTok: @jaczup_app
-    - Discord: jaczup
-    - Twitter: @jaczup
-    - E-mail: contact@jaczup.me
-
-  Contributors:
-    @jaczup - https://github.com/jaczup
-    @intexpression - https://github.com/intexpression
-    @dan64iel - https://github.com/dan64iel
-    @imzeme - https://github.com/imzeme
-	@GameShoot8050 - https://github.com/GameShoot8050
-    @wetraks -  https://github.com/wetraks
-    @cryblanka - https://github.com/cryblanka
-    @9fm - https://github.com/9fm
-
-*/
 
 const SCREEN_WIDTH = window.screen.availWidth
 const SCREEN_HEIGHT = window.screen.availHeight
@@ -110,7 +82,10 @@ const PHRASES = [
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo',
+  'DAJ MU DAJ MU DAJ MU DAJ MU DAJ MU DAJ MU DAJ MU',
+  'SUBSKTUBUJ KANAL SKERROBEK  KANAL SKERROBK  NA YT KURWAA JEBANA SUKA",
+  'SUBSKTUBUJ KANAL SKERROBEK  KANAL SKERROBK  NA YT KURWAA JEBANA SUKA"
 ]
 
 const LOGOUT_SITES = {
